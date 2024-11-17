@@ -1,1 +1,2 @@
 <?php
+$number = 1;
